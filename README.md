@@ -17,6 +17,6 @@ This set of scripts allow one to spatialise sounds through HRTFs, add reverb and
 10. When the spatialisation is complete, the file would be available for download.
 11. Click on the <filename>.wav link in blue to download the spatialized file. 
 
-## Conclusion
+## Comments Welcome!
 
 Comments/ideas for building more general features are welcome.
